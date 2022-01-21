@@ -14,4 +14,5 @@ const nombreUsuario = () =>{
     let telefono = prompt("Ingrese su telefono");
     alert("Tu nombre es: "+nombre+" Tu edad es: "+edad+" Tu direccion es: "+direccion+"\n"+" Tu numero telefonico es: "+telefono+" Tu documento es: "+documento);
     console.log("Tu nombre es: "+nombre+" Tu edad es: "+edad+" Tu direccion es: "+direccion+"\n"+" Tu numero telefonico es: "+telefono+" Tu documento es: "+documento);
+    console.log (nombre);
 }
